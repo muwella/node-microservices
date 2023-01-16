@@ -1,4 +1,4 @@
-### What it is
+## What it is
 🌱 node-microservices is a Node.js personal project to practice microservice architecture
 
 ## Run it
